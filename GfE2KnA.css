@@ -13,7 +13,7 @@
 
 :root {
   --background-image: url('https://cdn.discordapp.com/attachments/1385379980686655510/1460979888248062218/909d3d17022b48fb57b76cc0b12ab648.jpg?ex=6968e30d&is=6967918d&hm=f4878f37985db3fd93c7464122188eda0466412f03927260af4f313f95e0be63&');
-  --background-image-blur: 5px;
+  --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center;
   --popout-image: url('https://cdn.discordapp.com/attachments/1385379980686655510/1460979888248062218/909d3d17022b48fb57b76cc0b12ab648.jpg?ex=6968e30d&is=6967918d&hm=f4878f37985db3fd93c7464122188eda0466412f03927260af4f313f95e0be63&');
