@@ -32,16 +32,16 @@
   --middle-brightness: 0.5;
   --right-brightness: 0.5;
   --overlay-brightness: 0.5;
-  --gradient-primary: 244,67,54;
-  --gradient-secondary: 198,35,23;
+  --gradient-primary: 0, 35, 102;
+  --gradient-secondary: 4, 23, 61;
   --link-colour: #00b0f4;
   --scrollbar-colour: rgba(255,255,255,0.05);
   --gradient-direction: 320deg;
   --tint-colour: 255,51,159;
   --tint-brightness: 0;
   --font: gg sans;
-  --window-padding: 20px;
-  --window-roundness: 10px;
+  --window-padding: 0px;
+  --window-roundness: 0px;
   --update-notice-1: none;
 }
 
