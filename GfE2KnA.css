@@ -12,11 +12,11 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://cdn.discordapp.com/attachments/1345140844189057097/1460640008879996959/561201e1b8947f3ceffa3d1752d4e56b.png?ex=6967a683&is=69665503&hm=b0e676870a8a8caf2ef37f11075f910e8db6e3195e11e79272ff200946bb9b4d&');
+  --background-image: url('https://cdn.discordapp.com/attachments/1385379980686655510/1460979888248062218/909d3d17022b48fb57b76cc0b12ab648.jpg?ex=6968e30d&is=6967918d&hm=f4878f37985db3fd93c7464122188eda0466412f03927260af4f313f95e0be63&');
   --background-image-blur: 5px;
   --background-image-size: cover;
   --background-image-position: center;
-  --popout-image: url('https://cdn.discordapp.com/attachments/1345140844189057097/1460640008879996959/561201e1b8947f3ceffa3d1752d4e56b.png?ex=6967a683&is=69665503&hm=b0e676870a8a8caf2ef37f11075f910e8db6e3195e11e79272ff200946bb9b4d&');
+  --popout-image: url('https://cdn.discordapp.com/attachments/1385379980686655510/1460979888248062218/909d3d17022b48fb57b76cc0b12ab648.jpg?ex=6968e30d&is=6967918d&hm=f4878f37985db3fd93c7464122188eda0466412f03927260af4f313f95e0be63&');
   --popout-image-blur: 5px;
   --popout-image-size: cover;
   --popout-image-position: center;
@@ -27,11 +27,11 @@
   --home-button-image: url('https://gibbu.github.io/BetterDiscord-Themes/FrostedGlass/assets/discord.svg');
   --home-button-size: cover;
   --home-button-position: center;
-  --serverlist-brightness: 0.8;
-  --left-brightness: 0.8;
-  --middle-brightness: 0.6;
-  --right-brightness: 0;
-  --overlay-brightness: 0.75;
+  --serverlist-brightness: 0.5;
+  --left-brightness: 0.5;
+  --middle-brightness: 0.5;
+  --right-brightness: 0.5;
+  --overlay-brightness: 0.5;
   --gradient-primary: 244,67,54;
   --gradient-secondary: 198,35,23;
   --link-colour: #00b0f4;
