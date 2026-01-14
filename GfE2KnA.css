@@ -12,11 +12,11 @@
 @import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
 
 :root {
-  --background-image: url('https://cdn.discordapp.com/attachments/1385379980686655510/1460979888248062218/909d3d17022b48fb57b76cc0b12ab648.jpg?ex=6968e30d&is=6967918d&hm=f4878f37985db3fd93c7464122188eda0466412f03927260af4f313f95e0be63&');
-  --background-image-blur: 0px;
+  --background-image: url('https://cdn.discordapp.com/attachments/1324405899598761985/1460996958574608566/image0.jpg?ex=6968f2f2&is=6967a172&hm=165c6a945f9dc30436ddbc08fcca155e5236319ac6675aed1b2e04fc005ec2e1&');
+  --background-image-blur: 5px;
   --background-image-size: cover;
   --background-image-position: center;
-  --popout-image: url('https://cdn.discordapp.com/attachments/1385379980686655510/1460979888248062218/909d3d17022b48fb57b76cc0b12ab648.jpg?ex=6968e30d&is=6967918d&hm=f4878f37985db3fd93c7464122188eda0466412f03927260af4f313f95e0be63&');
+  --popout-image: url('https://cdn.discordapp.com/attachments/1324405899598761985/1460996958574608566/image0.jpg?ex=6968f2f2&is=6967a172&hm=165c6a945f9dc30436ddbc08fcca155e5236319ac6675aed1b2e04fc005ec2e1&');
   --popout-image-blur: 5px;
   --popout-image-size: cover;
   --popout-image-position: center;
@@ -32,8 +32,8 @@
   --middle-brightness: 0.5;
   --right-brightness: 0.5;
   --overlay-brightness: 0.5;
-  --gradient-primary: 0, 35, 102;
-  --gradient-secondary: 4, 23, 61;
+  --gradient-primary: 128, 0, 128;
+  --gradient-secondary: 85, 26, 139;
   --link-colour: #00b0f4;
   --scrollbar-colour: rgba(255,255,255,0.05);
   --gradient-direction: 320deg;
